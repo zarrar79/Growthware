@@ -119,7 +119,7 @@ select {
   display :none;
 }
 .background{
-  background-image : url("/src/HeroBg.svg");
+  background-image : url("/public/HeroBg.webp");
   width:100%;
   background-repeat: no-repeat;
   background-size:cover;
